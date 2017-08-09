@@ -16,7 +16,7 @@ List of awesome plugins and other resources for the [Eclipse IDE](https://eclips
 * [Darkest Dark Theme](https://marketplace.eclipse.org/content/darkest-dark-theme) : A great overall dark theme for the IDE
 
 ### Linters
-* [Sonar Linter](http://www.sonarlint.org/eclipse/)
+* [Sonar Linter](http://www.sonarlint.org/eclipse/) : On the fly linter
 
 ### Databases
 * [DBeaver](http://dbeaver.jkiss.org/download/) : SQL client
@@ -25,7 +25,10 @@ List of awesome plugins and other resources for the [Eclipse IDE](https://eclips
 * [Saros](http://www.saros-project.org/) : Edit collaboratively over XMPP
 
 ### Visualisation tools
-* [KlassViz](https://github.com/OpenKieler/klassviz): Class visualisation
+* [KlassViz](https://github.com/OpenKieler/klassviz) : Class visualisation
+
+### Documenting
+* [JAutodoc](http://jautodoc.sourceforge.net/) : Automatically add javadoc and file headers to your source code
 
 ### Language support
 * [Webclipse](https://www.genuitec.com/products/webclipse/)
