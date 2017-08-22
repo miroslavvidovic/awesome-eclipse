@@ -12,7 +12,7 @@ List of awesome plugins and other resources for the [Eclipse IDE](https://eclips
 * [AnyEditTools](https://github.com/iloveeclipse/anyedittools) : More customization for text-based editors
 
 ### Themes and styling
-* [Eclipse Color Themes](http://www.eclipsecolorthemes.org/) : Good choice of editor colorschemes
+* [Eclipse Color Themes](http://www.eclipsecolorthemes.org/) : Good choice of editor color schemes
 * [Darkest Dark Theme](https://marketplace.eclipse.org/content/darkest-dark-theme) : A great overall dark theme for the IDE
 
 ### Linters
@@ -30,10 +30,11 @@ List of awesome plugins and other resources for the [Eclipse IDE](https://eclips
 ### Documenting
 * [JAutodoc](http://jautodoc.sourceforge.net/) : Automatically add javadoc and file headers to your source code
 
-### Language support
-* [Webclipse](https://www.genuitec.com/products/webclipse/)
-* [PHP](https://eclipse.org/pdt/)
-* [Python](http://www.pydev.org/)
-* [Clojure](http://doc.ccw-ide.org/documentation.html)
-* [Haskell](http://eclipsefp.github.io/)
-* [Scala](http://scala-ide.org/)
+### Languages and platforms
+* [Webclipse](https://www.genuitec.com/products/webclipse/) : Plugin for modern web development
+* [PDT](https://eclipse.org/pdt/) : PHP IDE
+* [PyDev](http://www.pydev.org/) : Python IDE
+* [Counterclockwise](http://doc.ccw-ide.org/documentation.html) : Clojure IDE
+* [EclipseFP](http://eclipsefp.github.io/) : Haskell IDE
+* [ScalaIDE](http://scala-ide.org/) : IDE for Scala
+* [e(fx)clipse](https://www.eclipse.org/efxclipse) : JavaFX Tooling and Runtime for Eclipse
